@@ -72,8 +72,8 @@ class Rectangle(Base):
             Returns: x
         """
         return self.__x
-    @x.setter
 
+    @x.setter
     def x(self, value):
         """
             setter function for x.
